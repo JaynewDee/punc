@@ -2,9 +2,8 @@ from datetime import datetime as dt
 import time as t
 import webbrowser
 import sys
-import PyInquirer
 
-PyInquirer.prompt()
+# Rewrite to remind user of anything!
 
 YEAR = 2023
 MONTH = 3
